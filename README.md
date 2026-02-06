@@ -22,3 +22,7 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 ```
+
+## Output
+<img width="940" height="184" alt="image" src="https://github.com/user-attachments/assets/4205c8c1-4992-48ae-835e-2192b88de511" />
+<img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/b573497f-cacf-4119-a340-faea9fba8b8c" />
