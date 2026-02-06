@@ -1,0 +1,4 @@
+availability_domain,cidr,name,ocid,state,type,vcn_name
+ablk:AP-KULAI-2-AD-1,,instance-20260206-2349,ocid1.instance.oc1.ap-kulai-2.ansgwljrxrjftbycmbn2iphfswerbtqnqxmyznisz733ocobt2empvxk5y2a,RUNNING,compute_instance,
+,10.0.0.0/16,vcn-20260206-2350,ocid1.vcn.oc1.ap-kulai-2.amaaaaaaxrjftbyabwl37x6vchqtoyylfmlf7zzur6z3qgkm4az3s5jbhzpq,AVAILABLE,vcn,
+,10.0.0.0/24,subnet-20260206-2350,ocid1.subnet.oc1.ap-kulai-2.aaaaaaaagi33yorocxyxpss3nvq6ht4d6xn7stytvrkyrggqrzs4k2ess7uq,AVAILABLE,subnet,vcn-20260206-2350
